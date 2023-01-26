@@ -35,4 +35,10 @@ p{
 
 h2{
     font-size: 2.5rem;
+    font-family: Georgia, serif;
+}
+
+a {
+    color: #00a24b;
+    text-decoration: none;
 }
