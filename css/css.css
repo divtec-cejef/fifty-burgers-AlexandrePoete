@@ -25,12 +25,19 @@ header {
 }
 
 header img {
-    max-height: 160px;
+    max-width: 160%;
+
 }
 
+main{
+    padding: 20px;
+    max-width: 600px;
+    margin:0 auto;
+}
 p{
-    line-height: 1;
+    line-height: 1.5;
     font-size: 22px;
+
 }
 
 h2{
@@ -41,4 +48,8 @@ h2{
 a {
     color: #00a24b;
     text-decoration: none;
+}
+
+footer{
+    background-color: #E8A062;
 }
